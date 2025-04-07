@@ -1,5 +1,5 @@
-# Gemelos-Digitales-Modelizado-Matem-tico
-Práctica 4 Modelizado Matemático
+# Gemelos-Digitales-Modelizado-Matemático
+Práctica. 4 Modelizado Matemático
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=JesusZamora14/Gemelos-Digitales-Modelizado-Matem-tico)
 
